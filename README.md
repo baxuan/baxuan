@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ba Nguyen
 - 👀 I’m interested in data science, data analysis, business analysis
 - 🌱 I’m currently doing my PhD programme in Information Systems at Victoria University of Wellington, New Zealand.
-- 💞️ I’m looking to collaborate on data analysis and business analytics projects
+- 💞️ I’m looking for collaboration opportunities on data analysis and business analytics projects
 - 📫 Please contact me at **xuanba** at **hotmail.com**
 
 <!---
